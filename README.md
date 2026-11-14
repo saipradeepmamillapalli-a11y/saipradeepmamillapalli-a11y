@@ -1,8 +1,10 @@
-<!-- Animated GitHub profile README for Mamillapalli Sai Pradeep -->
+<!-- Solo Leveling-inspired dark fantasy profile theme -->
 
 <div align="center">
 
-# 👋 Hi, I'm Sai Pradeep
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:171044,100:4c1d95&height=230&section=header&text=SAI%20PRADEEP&fontSize=58&fontColor=E9D5FF&fontAlignY=38&desc=SHADOW%20HUNTER%20%7C%20PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=16&animation=twinkling" alt="Dark fantasy animated profile banner" />
+
+# ⚔️ Welcome to my Shadow Realm
 
 ### 💻 Python Full Stack Developer | B.Tech CSE Graduate
 
@@ -18,6 +20,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Arise...+and+keep+building.;Python+Full+Stack+Developer;Turning+ideas+into+projects." alt="Animated typing effect" />
+
+</div>
 
 ## 🚀 About Me
 
@@ -73,7 +81,7 @@ An academic project focused on simplifying attendance management.
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,55:171044,100:050816&height=120&section=footer&animation=twinkling" alt="Animated dark purple footer" />
 
 <div align="center">
 
