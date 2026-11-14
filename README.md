@@ -93,3 +93,12 @@ An academic project focused on simplifying attendance tracking and maintaining a
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:5B2A86,100:8A3FFC&height=130&section=footer&animation=twinkling" alt="Animated purple footer"/>
   <b>✨ KEEP LEARNING • KEEP BUILDING • KEEP GROWING ✨</b>
 </div>
+
+
+---
+
+<h2 align="center">🌐 MY PORTFOLIO</h2>
+<div align="center">
+  <a href="https://github.com/saipradeepmamillapalli-a11y/saipradeepmamillapalli-"><img src="https://img.shields.io/badge/OPEN-PORTFOLIO%20REPOSITORY-8A3FFC?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository"/></a>
+  <p>Explore my personal developer portfolio, projects, skills and contact details.</p>
+</div>
