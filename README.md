@@ -1,32 +1,30 @@
-<!-- Solo Leveling-inspired dark fantasy profile theme -->
+<!-- Premium dark fantasy / Solo Leveling-inspired developer profile -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:171044,100:4c1d95&height=230&section=header&text=MAMILLA%20PALLI%20SAI%20PRADEEP&fontSize=38&fontColor=E9D5FF&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&animation=twinkling" alt="Animated purple profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03050B,45:10152A,100:24134A&height=220&section=header&text=SAI%20PRADEEP&fontSize=58&fontColor=E6E9F2&fontAlignY=42&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=66&descSize=17&animation=fadeIn" alt="Minimal cinematic dark profile header" />
 
-# ⚔️ MAMILLA PALLI SAI PRADEEP
+<br/>
 
-### 💻 Python Full Stack Developer | B.Tech CSE Graduate
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=9B8AFB&center=true&vCenter=true&width=650&lines=Building+with+Python+and+Web+Technologies;Focused+on+clean%2C+practical+software;Learning.+Building.+Improving." alt="Developer tagline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Full+Stack+Developer;Building+Projects+with+Web+Technologies;Keep+Learning.+Keep+Building." alt="Animated typing effect" />
-
-[![GitHub followers](https://img.shields.io/github/followers/saipradeepmamillapalli-a11y?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/saipradeepmamillapalli-a11y)
-[![Profile views](https://komarev.com/ghpvc/?username=saipradeepmamillapalli-a11y&style=for-the-badge&color=2563eb)](https://github.com/saipradeepmamillapalli-a11y)
+[![GitHub](https://img.shields.io/badge/GitHub-saipradeepmamillapalli--a11y-171923?style=flat-square&logo=github)](https://github.com/saipradeepmamillapalli-a11y)
+[![Email](https://img.shields.io/badge/Email-Contact-171923?style=flat-square&logo=gmail)](mailto:saipradeepmamillapalli@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍🚀 ABOUT ME
+## 01 / PROFILE
 
-> 🎓 **B.Tech – Computer Science and Engineering**  
-> 💡 Interested in **Python Full Stack Development** and building web applications.  
-> 🌱 Always learning, improving my coding skills, and creating useful projects.  
-> 🎯 Career goal: Grow as a software developer and contribute to real-world projects.
+**Mamillapalli Sai Pradeep**  
+B.Tech graduate in Computer Science and Engineering.
+
+I am interested in Python Full Stack Development and building useful web applications. I am continuously strengthening my programming skills through hands-on projects and practical learning.
 
 ---
 
-## 🧠 TECHNICAL SKILLS
+## 02 / TECHNICAL SKILLS
 
 <div align="center">
 
@@ -34,69 +32,58 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Flask](https://img.shields.io/badge/Flask-30343B?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
-**Other skills:** MS Office
+**Additional:** MS Office
 
 ---
 
-## 🏆 CERTIFICATION
+## 03 / PROJECTS
+
+### AI Resume Builder
+A web application for creating professional resumes, with resume generation and PDF export functionality.
+
+**Stack:** Python · Flask · HTML · CSS · JavaScript · ReportLab
+
+### Smart Attendance System
+An academic project focused on simplifying attendance management and record keeping.
+
+---
+
+## 04 / CERTIFICATION
+
+**Full Stack Python with AI**  
+SL Tech Solutions
+
+---
+
+## 05 / GITHUB ANALYTICS
 
 <div align="center">
 
-### 🥇 FULL STACK PYTHON WITH AI
-**SL Tech Solutions**
-
-</div>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-### 🤖 01 — AI RESUME BUILDER
-A web-based application for creating professional resumes, with resume generation and PDF export functionality.
-
-**Technologies:** Python · Flask · HTML · CSS · JavaScript · ReportLab
-
-### 🧑‍💻 02 — SMART ATTENDANCE SYSTEM
-An academic project focused on simplifying and managing attendance records.
-
----
-
-## 📈 GITHUB PERFORMANCE
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saipradeepmamillapalli-a11y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipradeepmamillapalli-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saipradeepmamillapalli-a11y&show_icons=true&theme=transparent&title_color=9B8AFB&text_color=C9CEDA&icon_color=9B8AFB&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipradeepmamillapalli-a11y&layout=compact&theme=transparent&title_color=9B8AFB&text_color=C9CEDA&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=saipradeepmamillapalli-a11y&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=saipradeepmamillapalli-a11y&theme=transparent&ring=9B8AFB&fire=9B8AFB&currStreakLabel=9B8AFB&sideLabels=C9CEDA&dates=8A91A3&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 📬 CONTACT & CONNECT
+## 06 / CONTACT
+
+- **Email:** [saipradeepmamillapalli@gmail.com](mailto:saipradeepmamillapalli@gmail.com)
+- **GitHub:** [github.com/saipradeepmamillapalli-a11y](https://github.com/saipradeepmamillapalli-a11y)
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saipradeepmamillapalli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-View%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saipradeepmamillapalli-a11y)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24134A,55:10152A,100:03050B&height=70&section=footer" alt="Dark footer" />
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,55:171044,100:050816&height=120&section=footer&animation=twinkling" alt="Animated purple footer" />
-
-<div align="center">
-
-### ✨ KEEP LEARNING • KEEP BUILDING • KEEP GROWING ✨
-
-*Thanks for visiting my profile!*
+*Discipline. Consistency. Progress.*
 
 </div>
