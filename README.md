@@ -1,89 +1,81 @@
-<!-- Premium dark fantasy / Solo Leveling-inspired developer profile -->
+<!-- Professional developer profile README -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03050B,45:10152A,100:24134A&height=220&section=header&text=SAI%20PRADEEP&fontSize=58&fontColor=E6E9F2&fontAlignY=42&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=66&descSize=17&animation=fadeIn" alt="Minimal cinematic dark profile header" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=9B8AFB&center=true&vCenter=true&width=650&lines=Building+with+Python+and+Web+Technologies;Focused+on+clean%2C+practical+software;Learning.+Building.+Improving." alt="Developer tagline" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-saipradeepmamillapalli--a11y-171923?style=flat-square&logo=github)](https://github.com/saipradeepmamillapalli-a11y)
-[![Email](https://img.shields.io/badge/Email-Contact-171923?style=flat-square&logo=gmail)](mailto:saipradeepmamillapalli@gmail.com)
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:182235,100:34445B&height=210&section=header&text=SAI%20PRADEEP&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=16&descColor=D7DEE8&descAlignY=62&animation=fadeIn" alt="Sai Pradeep developer profile banner" />
+  <p><strong>Building practical applications. Growing through consistent learning.</strong></p>
+  <a href="mailto:saipradeepmamillapalli@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-202938?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/saipradeepmamillapalli-a11y"><img src="https://img.shields.io/badge/GITHUB-PROFILE-202938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
 
-## 01 / PROFILE
+## ABOUT
 
-**Mamillapalli Sai Pradeep**  
-B.Tech graduate in Computer Science and Engineering.
+### Mamillapalli Sai Pradeep
+**B.Tech — Computer Science and Engineering**
 
-I am interested in Python Full Stack Development and building useful web applications. I am continuously strengthening my programming skills through hands-on projects and practical learning.
+I’m an aspiring Python Full Stack Developer interested in creating useful, reliable web applications. I enjoy turning ideas into working projects and improving my skills through hands-on development.
 
 ---
 
-## 02 / TECHNICAL SKILLS
+## TECH STACK
 
 <div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Flask](https://img.shields.io/badge/Flask-30343B?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode&theme=dark" alt="Python, HTML, CSS, JavaScript, Flask, Git, GitHub and VS Code" />
 </div>
 
-**Additional:** MS Office
+| Area | Technologies |
+|:--|:--|
+| Programming | Python, JavaScript |
+| Frontend | HTML5, CSS3 |
+| Backend | Flask |
+| Tools | Git, GitHub, VS Code, MS Office |
 
 ---
 
-## 03 / PROJECTS
+## SELECTED PROJECTS
 
-### AI Resume Builder
-A web application for creating professional resumes, with resume generation and PDF export functionality.
-
-**Stack:** Python · Flask · HTML · CSS · JavaScript · ReportLab
-
-### Smart Attendance System
-An academic project focused on simplifying attendance management and record keeping.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Resume Builder</h3>
+      <p>A web application that helps users create professional resumes and export them as PDF files.</p>
+      <p><strong>Built with</strong><br/>Python · Flask · HTML · CSS · JavaScript · ReportLab</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Smart Attendance System</h3>
+      <p>An academic project designed to make attendance tracking and record management more convenient.</p>
+      <p><strong>Focus</strong><br/>Application development · Attendance management</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 04 / CERTIFICATION
+## CERTIFICATION
 
 **Full Stack Python with AI**  
 SL Tech Solutions
 
 ---
 
-## 05 / GITHUB ANALYTICS
+## GITHUB ACTIVITY
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saipradeepmamillapalli-a11y&show_icons=true&theme=transparent&title_color=9B8AFB&text_color=C9CEDA&icon_color=9B8AFB&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipradeepmamillapalli-a11y&layout=compact&theme=transparent&title_color=9B8AFB&text_color=C9CEDA&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=saipradeepmamillapalli-a11y&theme=transparent&ring=9B8AFB&fire=9B8AFB&currStreakLabel=9B8AFB&sideLabels=C9CEDA&dates=8A91A3&hide_border=true" alt="GitHub contribution streak" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saipradeepmamillapalli-a11y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8AA4C8&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipradeepmamillapalli-a11y&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Most used languages" />
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=saipradeepmamillapalli-a11y&hide_border=true&background=0D1117&ring=8AA4C8&fire=8AA4C8&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
 ---
 
-## 06 / CONTACT
+## LET'S CONNECT
 
 - **Email:** [saipradeepmamillapalli@gmail.com](mailto:saipradeepmamillapalli@gmail.com)
-- **GitHub:** [github.com/saipradeepmamillapalli-a11y](https://github.com/saipradeepmamillapalli-a11y)
+- **GitHub:** [@saipradeepmamillapalli-a11y](https://github.com/saipradeepmamillapalli-a11y)
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24134A,55:10152A,100:03050B&height=70&section=footer" alt="Dark footer" />
-
-*Discipline. Consistency. Progress.*
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34445B,50:182235,100:080B12&height=100&section=footer" alt="Profile footer" />
+  <sub>LEARN • BUILD • IMPROVE</sub>
 </div>
